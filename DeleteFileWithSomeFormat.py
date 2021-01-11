@@ -1,0 +1,1 @@
+# This program will delete the files that I don't want having some formats like, .CR2??
